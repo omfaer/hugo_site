@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://omfaer.github.io/"
 title   = "Ömer Faruk ER"
 
 DefaultContentLanguage = "en"
@@ -18,7 +18,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "omfaer.github.io"
 
 buildDrafts  = false
 buildFuture  = false
@@ -54,11 +54,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Ömer Faruk ER Web Site - Engineer - Developer - @omfaer"
   keywords = ""
   images = [""]
 
-  homeSubtitle = " '' #tech #software #android #developer #api #arduino '' @omfaer"
+  homeSubtitle = " '' #tech #software #android #developer #api #arduino '' "
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
