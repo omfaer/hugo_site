@@ -1,7 +1,8 @@
 +++
 title = "About"
-date = "2019-11-15"
+date =  "2019-11-15"
 author = "omfaer"
+aliases = ["about-us","about-hugo","contact"]
 +++
 
 ### Hi there
