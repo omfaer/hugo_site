@@ -15,10 +15,6 @@ p {
     border-left: 1px solid!important;
 }
 
-.logo__cursor {
-    background: #00FF00!important;
-}
-
 .theme-toggler {
     display: none!important;
 }
